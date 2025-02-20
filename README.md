@@ -17,7 +17,7 @@ A simple React application built with Vite and Tailwind CSS. Developed by **Ahme
 ### **Installation**  
 1. Clone the repository:  
    ```sh
-   git clone https://github.com/ahmedraed/todo-app.git
+   git clone https://github.com/AboNight02/todo-app.git
    cd todo-app
    ```  
 2. Install dependencies:  
